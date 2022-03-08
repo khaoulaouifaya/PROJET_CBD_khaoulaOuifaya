@@ -1,0 +1,150 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 19 avr. 2021, 17:23:47
+    Author     : khaoula ouifaya
+*/
+
+
+.linkDiv1{
+  text-decoration: none;
+  list-style: none;
+ 
+}
+.myDiv1{
+ float: left;
+}
+.link1{
+  color: teal;
+}
+.pic1{
+  width: 50px;
+}
+
+#fstImage{
+  width:100%;
+  height: 300px;
+}
+#seImage{
+  width:100%;
+  height: 300px;
+}
+#trImage{
+  width:100%;
+  height: 300px;
+}
+h1{
+  color: black;
+}
+#carouselExampleCaptions{
+  width: 60%;
+  float: right;
+  margin-right:10px;
+  margin-right:8%;
+
+}
+ .typeLocation{
+  float: left;
+  width: 25%;
+  height:740px;
+  
+  background-color: #dfe6e9;
+margin-left: 9px;
+}  
+#myCombobox{
+  width:90%;
+  margin-left: 4.2%;
+  
+}
+#myCheckbox{
+  margin-left: 9px;
+}
+#mybudjtMin{
+  width: 45%;
+  margin-left: 4.2%;
+}
+#mybudjtMax{
+  width: 45%;
+  
+}
+
+.myTitle{
+  
+  color: white;
+  
+}
+.badg{
+  margin-left: 4.2%;
+}
+#myChambre{
+  width:91%;
+  margin-left: 4.2%;
+}
+
+#myTrier{
+
+ width: 220px;
+ float: right;
+margin-right:8% ;
+margin-top:1% ;
+ /* left: 46%;position: absolute;
+ top: 56.6%; */ 
+}
+
+.myb{ 
+  width: 100px;
+  position: absolute;
+  left: 41%;
+  top: 60%;
+
+}
+#myCheckbox1{
+  margin-left: 4.2%;
+}
+.pic_trier{
+  
+  width: 34px;
+ position: absolute;
+ 
+ left: 74.9%;
+}
+#btn_rechercher{
+  margin-left: 4.2%;
+}
+.d1{
+    width: 150px;
+    height: 100px;
+    background-color: #55efc4;
+    margin-left: 30px;
+  float: left;
+  margin-top: 25px;
+    padding-top: 30px;
+    text-align: center;
+}
+.di2{
+    width: 150px;
+    height: 100px;
+    background-color: #74b9ff;
+    margin-left: 30px;
+    margin-top: 25px;
+  float: left;
+    padding-top: 30px;
+    text-align: center;
+}
+.di3{
+    width: 280px;
+    height: 100px;
+    background-color: khaki;
+    margin-left: 30px;
+    margin-top: 25px;
+    float: left;
+    padding-top: 30px;
+    text-align: center;
+}
+.mya{
+    text-decoration: none;
+    color: black;
+}

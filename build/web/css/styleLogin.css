@@ -1,0 +1,63 @@
+
+body{
+    background-image: url('../image/mm.jpeg');
+    background-size: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.myDiv1{
+  width:350px ;
+  height: 480px ;
+  background-color:#f8c291;
+  margin-top: 6%;
+  margin-left:38% ;
+  
+}
+.avatar{
+
+  width:120px ;
+  height: 120px ;
+  margin-left:30% ;
+  margin-top:4% ;
+ 
+
+}
+#lbl1{
+  margin-left:15% ;
+  /* display: block;   margin-top: 20%;*/
+}
+#input1{
+  border: none;
+  height: 30px;
+  margin-left:15% ;
+  margin-top:1%;
+  width: 230px;
+}
+#lbl2{
+  margin-left:15% ;
+ 
+
+  /* display: block; */
+}
+#input2{
+  border: none;
+  margin-left:15% ;
+  margin-top:1%;
+  height: 30px;
+  width: 230px;
+}
+
+.myBtn{
+  border: none;
+  width: 100px;
+  margin-left:33% ;
+  margin-top:7%;
+  height: 30px;
+  background-color: bisque;
+}
+.myLink{
+ 
+  color: black;
+  margin-left:5% ;
+  margin-top:7%;
+} 
